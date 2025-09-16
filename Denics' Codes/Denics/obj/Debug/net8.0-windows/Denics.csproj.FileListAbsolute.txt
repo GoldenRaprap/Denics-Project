@@ -1,0 +1,123 @@
+C:\Users\RAPHAEL\source\repos\Denics\Denics\bin\Debug\net8.0-windows\Denics.exe
+C:\Users\RAPHAEL\source\repos\Denics\Denics\bin\Debug\net8.0-windows\Denics.deps.json
+C:\Users\RAPHAEL\source\repos\Denics\Denics\bin\Debug\net8.0-windows\Denics.runtimeconfig.json
+C:\Users\RAPHAEL\source\repos\Denics\Denics\bin\Debug\net8.0-windows\Denics.dll
+C:\Users\RAPHAEL\source\repos\Denics\Denics\bin\Debug\net8.0-windows\Denics.pdb
+C:\Users\RAPHAEL\source\repos\Denics\Denics\obj\Debug\net8.0-windows\Denics.csproj.GenerateResource.cache
+C:\Users\RAPHAEL\source\repos\Denics\Denics\obj\Debug\net8.0-windows\Denics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAPHAEL\source\repos\Denics\Denics\obj\Debug\net8.0-windows\Denics.AssemblyInfoInputs.cache
+C:\Users\RAPHAEL\source\repos\Denics\Denics\obj\Debug\net8.0-windows\Denics.AssemblyInfo.cs
+C:\Users\RAPHAEL\source\repos\Denics\Denics\obj\Debug\net8.0-windows\Denics.csproj.CoreCompileInputs.cache
+C:\Users\RAPHAEL\source\repos\Denics\Denics\obj\Debug\net8.0-windows\Denics.dll
+C:\Users\RAPHAEL\source\repos\Denics\Denics\obj\Debug\net8.0-windows\refint\Denics.dll
+C:\Users\RAPHAEL\source\repos\Denics\Denics\obj\Debug\net8.0-windows\Denics.pdb
+C:\Users\RAPHAEL\source\repos\Denics\Denics\obj\Debug\net8.0-windows\Denics.genruntimeconfig.cache
+C:\Users\RAPHAEL\source\repos\Denics\Denics\obj\Debug\net8.0-windows\ref\Denics.dll
+C:\Users\RAPHAEL\source\repos\Denics\Denics\obj\Debug\net8.0-windows\Denics.Homepages.Homepage.resources
+C:\Users\RAPHAEL\source\repos\Denics\Denics\obj\Debug\net8.0-windows\Denics.Homepages.AboutUs.resources
+C:\Users\RAPHAEL\source\repos\Denics\Denics\obj\Debug\net8.0-windows\Denics.Homepages.Contactpage.resources
+C:\Users\RAPHAEL\source\repos\Denics\Denics\obj\Debug\net8.0-windows\Denics.Homepages.Servicespage.resources
+C:\Users\RAPHAEL\source\repos\Denics\Denics\obj\Debug\net8.0-windows\Denics.Adnministrator.Doctors.resources
+C:\Users\RAPHAEL\source\repos\Denics\Denics\obj\Debug\net8.0-windows\Denics.Administrator.Services.resources
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\obj\Debug\net8.0-windows\Denics.Adnministrator.Doctors.resources
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\obj\Debug\net8.0-windows\Denics.Administrator.Services.resources
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\obj\Debug\net8.0-windows\Denics.Homepages.AboutUs.resources
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\obj\Debug\net8.0-windows\Denics.Homepages.Contactpage.resources
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\obj\Debug\net8.0-windows\Denics.Homepages.Homepage.resources
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\obj\Debug\net8.0-windows\Denics.Homepages.Servicespage.resources
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\obj\Debug\net8.0-windows\Denics.csproj.GenerateResource.cache
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\obj\Debug\net8.0-windows\Denics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\obj\Debug\net8.0-windows\Denics.AssemblyInfoInputs.cache
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\obj\Debug\net8.0-windows\Denics.AssemblyInfo.cs
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\obj\Debug\net8.0-windows\Denics.csproj.CoreCompileInputs.cache
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\obj\Debug\net8.0-windows\Denics.dll
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\obj\Debug\net8.0-windows\refint\Denics.dll
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\obj\Debug\net8.0-windows\Denics.pdb
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\obj\Debug\net8.0-windows\Denics.Administrator.Form1.resources
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\bin\Debug\net8.0-windows\Denics.exe
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\bin\Debug\net8.0-windows\Denics.deps.json
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\bin\Debug\net8.0-windows\Denics.runtimeconfig.json
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\bin\Debug\net8.0-windows\Denics.dll
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\bin\Debug\net8.0-windows\Denics.pdb
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\obj\Debug\net8.0-windows\Denics.csproj.AssemblyReference.cache
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\obj\Debug\net8.0-windows\Denics.csproj.Up2Date
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\obj\Debug\net8.0-windows\Denics.genruntimeconfig.cache
+C:\Users\RAPHAEL\Desktop\College\Denics Project\September 11, 2025\Denics\Denics\obj\Debug\net8.0-windows\ref\Denics.dll
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\bin\Debug\net8.0-windows\Denics.exe
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\bin\Debug\net8.0-windows\Denics.deps.json
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\bin\Debug\net8.0-windows\Denics.runtimeconfig.json
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\bin\Debug\net8.0-windows\Denics.dll
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\bin\Debug\net8.0-windows\Denics.pdb
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.csproj.AssemblyReference.cache
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.Homepages.AboutUs.resources
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.Homepages.Contactpage.resources
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.Homepages.Homepage.resources
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.Homepages.Servicespage.resources
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.csproj.GenerateResource.cache
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.AssemblyInfoInputs.cache
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.AssemblyInfo.cs
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.csproj.CoreCompileInputs.cache
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.csproj.Up2Date
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.dll
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\refint\Denics.dll
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.pdb
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.genruntimeconfig.cache
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\ref\Denics.dll
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.Administrator.AppointmentPage.resources
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.Administrator.AvailabilityPage.resources
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.Administrator.DoctorsPage.resources
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.Administrator.NotificationPage.resources
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.Administrator.PatientsPage.resources
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.Administrator.ReportPage.resources
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.Administrator.sample.resources
+C:\Users\RAPHAEL\Desktop\College\Denics Project\VScode\Denics\Denics\obj\Debug\net8.0-windows\Denics.Administrator.ServicesPage.resources
+D:\Denics Project\Denics\Denics\bin\Debug\net8.0-windows\Denics.exe
+D:\Denics Project\Denics\Denics\bin\Debug\net8.0-windows\Denics.deps.json
+D:\Denics Project\Denics\Denics\bin\Debug\net8.0-windows\Denics.runtimeconfig.json
+D:\Denics Project\Denics\Denics\bin\Debug\net8.0-windows\Denics.dll
+D:\Denics Project\Denics\Denics\bin\Debug\net8.0-windows\Denics.pdb
+D:\Denics Project\Denics\Denics\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Denics Project\Denics\Denics\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Denics Project\Denics\Denics\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Denics Project\Denics\Denics\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Denics Project\Denics\Denics\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Denics Project\Denics\Denics\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.csproj.AssemblyReference.cache
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.Administrator.AppointmentPage.resources
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.Administrator.NotificationPage.resources
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.Administrator.PatientsPage.resources
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.Administrator.ReportPage.resources
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.Administrator.ServicesPage.resources
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.Homepages.AboutUs.resources
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.Homepages.Contactpage.resources
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.Homepages.Homepage.resources
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.Homepages.Servicespage.resources
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.csproj.GenerateResource.cache
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.AssemblyInfoInputs.cache
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.AssemblyInfo.cs
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.csproj.CoreCompileInputs.cache
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.csproj.Up2Date
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.dll
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\refint\Denics.dll
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.pdb
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.genruntimeconfig.cache
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\ref\Denics.dll
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.Properties.Resources.resources
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.Administrator.MainAdminPage.resources
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.Administrator.LogInPage.resources
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.Administrator.DoctorPage.resources
+D:\Denics Project\Denics\Denics\obj\Debug\net8.0-windows\Denics.Administrator.SchedulePage.resources
