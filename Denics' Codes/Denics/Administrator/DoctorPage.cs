@@ -15,11 +15,11 @@ namespace Denics.Administrator
         public DoctorPage()
         {
             InitializeComponent();
-            this.Load += Form1_Load; // Ensure the event is hooked up
+            this.Load += DoctorPage_Load; // Ensure the event is hooked up
             this.StartPosition = FormStartPosition.CenterScreen;
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void DoctorPage_Load(object sender, EventArgs e)
         {
             try
             {
@@ -200,4 +200,5 @@ namespace Denics.Administrator
         }
     }
 }
+
 
