@@ -304,7 +304,7 @@
             Controls.Add(dgvDoctortable);
             Name = "DoctorPage";
             Text = "Doctor Management";
-            Load += Form1_Load;
+            Load += DoctorPage_Load;
             ((System.ComponentModel.ISupportInitialize)dgvDoctortable).EndInit();
             SideBarBackground.ResumeLayout(false);
             ResumeLayout(false);
@@ -337,4 +337,5 @@
         private Panel PatientButton;
         private Panel DoctorButton;
     }
+
 }
