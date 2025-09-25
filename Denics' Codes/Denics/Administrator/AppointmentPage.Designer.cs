@@ -1,4 +1,4 @@
-﻿namespace Denics.Administrator
+namespace Denics.Administrator
 {
     partial class AppointmentPage
     {
@@ -52,10 +52,11 @@
             SaveAutomationbtn = new Button();
             button1 = new Button();
             ApprovalPanel = new Panel();
-            ViewCompletionbtn = new Button();
-            CompletionLabel = new Label();
+            Undobtn = new Button();
             NoShowbtn = new Button();
             Completebtn = new Button();
+            ViewCompletionbtn = new Button();
+            CompletionLabel = new Label();
             ((System.ComponentModel.ISupportInitialize)OverallAppointmentTable).BeginInit();
             ApprovalPanel.SuspendLayout();
             SuspendLayout();
@@ -126,7 +127,7 @@
             // ApprovalLabel
             // 
             ApprovalLabel.AutoSize = true;
-            ApprovalLabel.Location = new Point(13, 7);
+            ApprovalLabel.Location = new Point(9, 7);
             ApprovalLabel.Name = "ApprovalLabel";
             ApprovalLabel.Size = new Size(55, 15);
             ApprovalLabel.TabIndex = 8;
@@ -176,7 +177,7 @@
             // 
             // ViewApprovalbtn
             // 
-            ViewApprovalbtn.Location = new Point(121, 3);
+            ViewApprovalbtn.Location = new Point(121, 5);
             ViewApprovalbtn.Name = "ViewApprovalbtn";
             ViewApprovalbtn.Size = new Size(75, 23);
             ViewApprovalbtn.TabIndex = 15;
@@ -186,15 +187,15 @@
             // 
             // Statustxtbx
             // 
-            Statustxtbx.Location = new Point(13, 46);
+            Statustxtbx.Location = new Point(9, 46);
             Statustxtbx.Name = "Statustxtbx";
-            Statustxtbx.Size = new Size(183, 23);
+            Statustxtbx.Size = new Size(187, 23);
             Statustxtbx.TabIndex = 16;
             // 
             // StatusLabel
             // 
             StatusLabel.AutoSize = true;
-            StatusLabel.Location = new Point(13, 28);
+            StatusLabel.Location = new Point(9, 28);
             StatusLabel.Name = "StatusLabel";
             StatusLabel.Size = new Size(42, 15);
             StatusLabel.TabIndex = 17;
@@ -212,7 +213,7 @@
             // 
             // Approvebtn
             // 
-            Approvebtn.Location = new Point(13, 73);
+            Approvebtn.Location = new Point(9, 73);
             Approvebtn.Name = "Approvebtn";
             Approvebtn.Size = new Size(87, 23);
             Approvebtn.TabIndex = 19;
@@ -222,7 +223,7 @@
             // 
             // CancellationBtn
             // 
-            CancellationBtn.Location = new Point(109, 73);
+            CancellationBtn.Location = new Point(109, 75);
             CancellationBtn.Name = "CancellationBtn";
             CancellationBtn.Size = new Size(87, 23);
             CancellationBtn.TabIndex = 20;
@@ -233,7 +234,7 @@
             // Automation_checkbox
             // 
             Automation_checkbox.AutoSize = true;
-            Automation_checkbox.Location = new Point(15, 107);
+            Automation_checkbox.Location = new Point(11, 107);
             Automation_checkbox.Name = "Automation_checkbox";
             Automation_checkbox.Size = new Size(79, 19);
             Automation_checkbox.TabIndex = 21;
@@ -242,7 +243,7 @@
             // 
             // SaveAutomationbtn
             // 
-            SaveAutomationbtn.Location = new Point(121, 103);
+            SaveAutomationbtn.Location = new Point(121, 105);
             SaveAutomationbtn.Name = "SaveAutomationbtn";
             SaveAutomationbtn.Size = new Size(75, 23);
             SaveAutomationbtn.TabIndex = 22;
@@ -263,6 +264,7 @@
             // ApprovalPanel
             // 
             ApprovalPanel.BackColor = Color.LightGray;
+            ApprovalPanel.Controls.Add(Undobtn);
             ApprovalPanel.Controls.Add(NoShowbtn);
             ApprovalPanel.Controls.Add(Completebtn);
             ApprovalPanel.Controls.Add(ViewCompletionbtn);
@@ -280,41 +282,54 @@
             ApprovalPanel.Size = new Size(205, 229);
             ApprovalPanel.TabIndex = 24;
             // 
-            // ViewCompletionbtn
+            // Undobtn
             // 
-            ViewCompletionbtn.Location = new Point(121, 154);
-            ViewCompletionbtn.Name = "ViewCompletionbtn";
-            ViewCompletionbtn.Size = new Size(75, 23);
-            ViewCompletionbtn.TabIndex = 24;
-            ViewCompletionbtn.Text = "View";
-            ViewCompletionbtn.UseVisualStyleBackColor = true;
-            // 
-            // CompletionLabel
-            // 
-            CompletionLabel.AutoSize = true;
-            CompletionLabel.Location = new Point(13, 158);
-            CompletionLabel.Name = "CompletionLabel";
-            CompletionLabel.Size = new Size(70, 15);
-            CompletionLabel.TabIndex = 23;
-            CompletionLabel.Text = "Completion";
+            Undobtn.Location = new Point(56, 194);
+            Undobtn.Name = "Undobtn";
+            Undobtn.Size = new Size(87, 23);
+            Undobtn.TabIndex = 27;
+            Undobtn.Text = "Undo";
+            Undobtn.UseVisualStyleBackColor = true;
+            Undobtn.Click += Undobtn_Click;
             // 
             // NoShowbtn
             // 
-            NoShowbtn.Location = new Point(109, 183);
+            NoShowbtn.Location = new Point(109, 165);
             NoShowbtn.Name = "NoShowbtn";
             NoShowbtn.Size = new Size(87, 23);
             NoShowbtn.TabIndex = 26;
             NoShowbtn.Text = "No-Show";
             NoShowbtn.UseVisualStyleBackColor = true;
+            NoShowbtn.Click += NoShowbtn_Click;
             // 
             // Completebtn
             // 
-            Completebtn.Location = new Point(13, 183);
+            Completebtn.Location = new Point(9, 163);
             Completebtn.Name = "Completebtn";
             Completebtn.Size = new Size(87, 23);
             Completebtn.TabIndex = 25;
             Completebtn.Text = "Complete";
             Completebtn.UseVisualStyleBackColor = true;
+            Completebtn.Click += Completebtn_Click;
+            // 
+            // ViewCompletionbtn
+            // 
+            ViewCompletionbtn.Location = new Point(121, 136);
+            ViewCompletionbtn.Name = "ViewCompletionbtn";
+            ViewCompletionbtn.Size = new Size(75, 23);
+            ViewCompletionbtn.TabIndex = 24;
+            ViewCompletionbtn.Text = "View";
+            ViewCompletionbtn.UseVisualStyleBackColor = true;
+            ViewCompletionbtn.Click += ViewCompletionbtn_Click;
+            // 
+            // CompletionLabel
+            // 
+            CompletionLabel.AutoSize = true;
+            CompletionLabel.Location = new Point(9, 138);
+            CompletionLabel.Name = "CompletionLabel";
+            CompletionLabel.Size = new Size(70, 15);
+            CompletionLabel.TabIndex = 23;
+            CompletionLabel.Text = "Completion";
             // 
             // AppointmentPage
             // 
@@ -380,5 +395,6 @@
         private Button button2;
         private CheckBox checkBox1;
         private TextBox textBox1;
+        private Button Undobtn;
     }
 }
