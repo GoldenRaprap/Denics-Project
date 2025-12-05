@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Administrator\AddAppoinment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrontPage\FAboutUs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrontPage\FContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrontPage\FHomepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrontPage\LForgetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrontPage\FService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrontPage\LogInPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrontPage\OTPVerification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrontPage\Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrator\MainAdminPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrator\AppointmentPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrator\DoctorPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrator\PatientsPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrator\ReportPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrator\ServicesPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrator\SchedulePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrontPage\ResetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserInterface\AvailableServices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserInterface\Calendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserInterface\DoctorCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserInterface\Doctors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserInterface\HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserInterface\UserBookingPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserInterface\UserProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
